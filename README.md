@@ -47,7 +47,7 @@ The project is based on two key datasets:
 
 ## 📷 Dashboard Preview
 
-
+https://github.com/Shohrat-Waquar/E-Commerce-Sales-Analysis/blob/main/Dashboard.png
 
 ---
 
