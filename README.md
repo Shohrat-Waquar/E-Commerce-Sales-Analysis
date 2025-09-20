@@ -77,7 +77,7 @@ https://github.com/Shohrat-Waquar/E-Commerce-Sales-Analysis/blob/main/Dashboard.
 
 ## 👨‍💻 Author
 
-**Madhav \[Your Full Name]**
+**Madhav \[Shohrat Waquar]**
 📧 waquar.shohrat@gmail.com
 🔗 https://www.linkedin.com/in/shohrat-waquar-b5a813288/
 
